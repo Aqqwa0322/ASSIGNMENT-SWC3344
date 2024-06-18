@@ -1,0 +1,20 @@
+ORD001;John Doe;123 Main St;Laptop;2;1200.0;Pending
+ORD002;Jane Smith;456 Elm St;Monitor;1;300.0;Shipped
+ORD003;Michael Brown;789 Oak St;Keyboard;3;50.0;Delivered
+ORD004;Emily Johnson;111 Pine St;Mouse;4;25.0;Pending
+ORD005;Robert Davis;222 Cedar St;Headphones;2;150.0;Shipped
+ORD006;Sophia Wilson;333 Maple St;Printer;1;400.0;Delivered
+ORD007;David Martinez;444 Birch St;Tablet;2;350.0;Pending
+ORD008;Emma Garcia;555 Spruce St;Smartphone;1;700.0;Shipped
+ORD009;James Rodriguez;666 Walnut St;Camera;1;500.0;Delivered
+ORD010;Olivia Miller;777 Sycamore St;External Hard Drive;2;100.0;Pending
+ORD011;William Lopez;888 Pineapple St;Microphone;3;80.0;Shipped
+ORD012;Isabella Hernandez;999 Banana St;Speaker;1;120.0;Delivered
+ORD013;Alexander Gonzalez;123 Apple St;Router;2;90.0;Pending
+ORD014;Mia Wilson;456 Orange St;Smartwatch;1;300.0;Shipped
+ORD015;Ethan Perez;789 Grape St;Graphics Card;1;600.0;Delivered
+ORD016;Charlotte Taylor;111 Lemon St;Game Console;2;400.0;Pending
+ORD017;Daniel Moore;222 Lime St;Software;3;50.0;Shipped
+ORD018;Ava Martin;333 Strawberry St;Printer Ink;2;30.0;Delivered
+ORD019;Logan Thompson;444 Blueberry St;Wireless Earbuds;1;120.0;Pending
+ORD020;Grace Scott;555 Raspberry St;Webcam;1;80.0;Shipped
